@@ -10,7 +10,7 @@ This JavaScript project is designed for a Code Kata Battle, providing students w
 
 1. **`reverseString(str)`**
 
-   - Reverse a given string.
+   - Reverse a given string. 
 
 2. **`capitalizeFirstLetter(str)`**
    - Capitalize the first letter of a given string.
