@@ -1,0 +1,12 @@
+{
+  "name": "my_js_project",
+  "version": "1.0.0",
+  "description": "JavaScript project for Code Kata Battle",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
